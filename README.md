@@ -1,5 +1,5 @@
 # Metabolic Pathway Kinetic Simulation
-### BISB211605 – Systems Biology | UAS Genap 2025/2026 | Fakultas Biologi, Universitas Gadjah Mada
+### Systems Biology | UAS Bioteknologi 2025/2026 
 
 ---
 
