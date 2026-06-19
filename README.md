@@ -309,5 +309,3 @@ python simulation.py
 - Course GitHub: [lab-biotek-bio-ugm/S1_BISB211605_Biotechnology](https://github.com/lab-biotek-bio-ugm/S1_BISB211605_Biotechnology)
 
 ---
-
-*Fakultas Biologi — Universitas Gadjah Mada | UAS Genap T.A. 2025/2026 | Dosen: Matin Nuhamunada, M.Sc., Ph.D.*
